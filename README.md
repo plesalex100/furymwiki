@@ -1,2 +1,2 @@
 
-Link: [Fury Wiki](https://wiki.furyrp.ro)
+Link: [FuryM Wiki](https://wiki.furym.ro)
