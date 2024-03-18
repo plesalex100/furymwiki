@@ -3,15 +3,15 @@ title: About us
 ---
 
 
-# <center><span class="title-font">:fire:About us:fire:</span></center>
+# <center><span class="title-font">:fire:About Fury Community:fire:</span></center>
 
 ## <span class="header-font">Cine suntem noi?</span>
 
 Suntem o comunitate de FiveM fondată în data de 28.04.2022 de către **Alex**, cunoscut sub nickname-ul de <span style="color:orange">**plesalex100**</span>, scripterul serverului, care a pus bazele comunității alături de alți membrii fondatori pentru a dezvolta un proiect unic din mai multe puncte de vedere.
 
-Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem la dispoziție un loc unde se află roleplay de calitate, sisteme și script-uri calitative, dar și un loc vă puteți relaxa și unde vă puteți distra alături de prieteni, proiectul fiind unul de termen lung.
+Scopul proiectului <span style="color:red">FuryM</span> presupune să vă punem la dispoziție un loc unde se află sisteme și script-uri calitative și un loc vă puteți relaxa și unde vă puteți distra alături de prieteni, proiectul fiind unul de termen lung.
 
-În cadrul acestei pagini de **Wiki** poți găsi toate informațiile de care ai nevoie pentru început, dacă totuși informația pe care o cauți nu o poți găsi aici accesați serverul nostru de [Discord](https://discord.com/invite/furyro) unde poți contacta un membru al [echipei administrative](#echipa-administrativa).
+În cadrul acestei pagini de **Wiki** poți găsi toate informațiile de care ai nevoie pentru început, dacă totuși informația pe care o cauți nu o poți găsi aici accesați serverul nostru de [TODO Discord](https://discord.com/invite/furyro) unde poți contacta un membru al [echipei administrative](#echipa-administrativa).
 
 ## <span class="header-font">Echipa Administrativă</span>
 
@@ -23,7 +23,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 <br/>
 
-#### <span style="color:red">Fondator & Co-Fondator</span>
+#### <span style="color:white">Fondator & Co-Fondator</span>
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
 :::info <span style="color:#FF7F7F">Aceștia pot fi contactați pentru:</span>
 - <span style="color:#FF7F7F">probleme grave la nivel de comunitate</span>
@@ -43,7 +43,17 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span style="color:green">Admin 1-5</span>
+#### <span style="color:darkred">Community Manager</span>
+- Community Manager-ul este persoana care se ocupa de problemele majore care pot afecta comunitatea, filtrarea sugestiilor pentru viitoarele update-uri și management-ul per-total al comunității.
+:::info <span style="color:#FFD580">Acesta poate fi contactat pentru:</span>
+- <span style="color:#FFD580">probleme majore/minore la nivel de comunitate</span>
+- <span style="color:#FFD580">propuneri de sisteme noi</span>
+- <span style="color:#FF7F7F">propuneri de colaborări</span>
+:::
+
+<hr style="transform: translateY(10px)"/>
+
+#### <span style="color:#119b9b">Helper în Teste</span> / <span style="color:#40e0d0">Helper</span> / <span style="color:#ff5a00">Moderator</span> / <span style="color:#8942db">Head of Moderators</span> / <span style="color:#2727c0">Supervisor</span> / <span style="color:#1cb11c">Administrator</span>
 - Adminii formează echipa de support care stau la dispoziția fiecărui jucător în orice moment al zilei, atât pe joc, cât și pe [serverul de discord](https://discord.gg/furyro).
 :::info <span style="color:#90EE90">Aceștia poat fi contactați pentru:</span>
 - <span style="color:#90EE90">întrebări legate de sisteme / locații / joburi de pe server</span>
@@ -57,5 +67,3 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 Puteți face reclamație unui jucător, să raportați un bug sau să puneți o întrebare accesând comanda /ticket.
 
 ![menuTicket](https://i.imgur.com/xbsLv2a.png)
-
-<!-- # test commit -->
