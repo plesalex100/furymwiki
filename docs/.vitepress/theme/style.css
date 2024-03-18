@@ -51,16 +51,27 @@
  * Component: Home
  * -------------------------------------------------------------------------- */
 
+ @keyframes glow {
+  0% { box-shadow: 0 0 5px rgb(0, 255, 0), 0 0 10px rgb(0, 255, 0), 0 0 15px rgb(0, 255, 0); }
+  50% { box-shadow: 0 0 10px rgb(0, 255, 0), 0 0 15px rgb(0, 255, 0), 0 0 20px rgb(0, 255, 0); }
+  100% { box-shadow: 0 0 5px rgb(0, 255, 0), 0 0 10px rgb(0, 255, 0), 0 0 15px rgb(0, 255, 0); }
+}
+
+/* Apply glowing effect to the thumb */
 ::-webkit-scrollbar-thumb {
-    background-color: #404041;
-    border-radius: 10px;
+  background-color: rgb(64, 64, 65);
+  border-radius: 10px;
+  animation: glow 1.5s infinite alternate; /* Apply the glow animation */
 }
+
+/* Define styles for other scrollbar components */
 ::-webkit-scrollbar {
-    width: 5px;
-    background-color: #191b22;
+  width: 5px;
+  background-color: rgb(25, 27, 34);
 }
+
 ::-webkit-scrollbar-track {
-    background-color: #191b22;
+  background-color: rgb(25, 27, 34);
 }
 
 :root {
