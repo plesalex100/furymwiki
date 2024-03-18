@@ -25,10 +25,10 @@ Scopul proiectului <span style="color:red">FuryM</span> presupune să vă punem 
 
 #### <span style="color:white">Fondator & Co-Fondator</span>
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
-:::info <span style="color:#FF7F7F">Aceștia pot fi contactați pentru:</span>
-- <span style="color:#FF7F7F">probleme grave la nivel de comunitate</span>
-- <span style="color:#FF7F7F">propuneri de colaborări</span>
-- <span style="color:#FF7F7F">pentru probleme la donații</span>
+:::info <span style="color:white">Aceștia pot fi contactați pentru:</span>
+- <span style="color:white">probleme grave la nivel de comunitate</span>
+- <span style="color:white">propuneri de colaborări</span>
+- <span style="color:white">pentru probleme la donații</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -45,9 +45,9 @@ Scopul proiectului <span style="color:red">FuryM</span> presupune să vă punem 
 
 #### <span style="color:darkred">Community Manager</span>
 - Community Manager-ul este persoana care se ocupa de problemele majore care pot afecta comunitatea, filtrarea sugestiilor pentru viitoarele update-uri și management-ul per-total al comunității.
-:::info <span style="color:#FFD580">Acesta poate fi contactat pentru:</span>
-- <span style="color:#FFD580">probleme majore/minore la nivel de comunitate</span>
-- <span style="color:#FFD580">propuneri de sisteme noi</span>
+:::info <span style="color:#FF7F7F">Acesta poate fi contactat pentru:</span>
+- <span style="color:#FF7F7F">probleme majore/minore la nivel de comunitate</span>
+- <span style="color:#FF7F7F">propuneri de sisteme noi</span>
 - <span style="color:#FF7F7F">propuneri de colaborări</span>
 :::
 
@@ -55,11 +55,11 @@ Scopul proiectului <span style="color:red">FuryM</span> presupune să vă punem 
 
 #### <span style="color:#119b9b">Helper în Teste</span> / <span style="color:#40e0d0">Helper</span> / <span style="color:#ff5a00">Moderator</span> / <span style="color:#8942db">Head of Moderators</span> / <span style="color:#2727c0">Supervisor</span> / <span style="color:#1cb11c">Administrator</span>
 - Adminii formează echipa de support care stau la dispoziția fiecărui jucător în orice moment al zilei, atât pe joc, cât și pe [serverul de discord](https://discord.gg/furyro).
-:::info <span style="color:#90EE90">Aceștia poat fi contactați pentru:</span>
-- <span style="color:#90EE90">întrebări legate de sisteme / locații / joburi de pe server</span>
-- <span style="color:#90EE90">probleme minore la nivel de comunitate</span>
-- <span style="color:#90EE90">pierderi de arme din cauza unor bug-uri</span>
-- <span style="color:#90EE90">reclamații la adresa altor jucători</span>
+:::info <span style="color:#ff5a00">Aceștia poat fi contactați pentru:</span>
+- <span style="color:#ff5a00">întrebări legate de sisteme / locații / joburi de pe server</span>
+- <span style="color:#ff5a00">probleme minore la nivel de comunitate</span>
+- <span style="color:#ff5a00">pierderi de arme din cauza unor bug-uri</span>
+- <span style="color:#ff5a00">reclamații la adresa altor jucători</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
