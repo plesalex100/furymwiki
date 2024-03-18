@@ -59,7 +59,7 @@
 
 /* Apply glowing effect to the thumb */
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(64, 64, 65);
+  background-color: green;
   border-radius: 10px;
   animation: glow 1.5s infinite alternate; /* Apply the glow animation */
 }
