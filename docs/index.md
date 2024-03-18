@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Fury Romania Advanced Roleplay
+  name: Fury Romania Medium Roleplay
   text: Official Wiki
   tagline: Află informațiile updatate la zi despre toate sistemele prezente pe serverul nostru.
   image:

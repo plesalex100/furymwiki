@@ -42,7 +42,7 @@ export default defineConfig({
     outlineTitle: "Cuprins",
 
     editLink: {
-      pattern: 'https://github.com/plesalex100/furywiki/edit/main/docs/:path',
+      pattern: 'https://github.com/plesalex100/furymwiki/edit/main/docs/:path',
       text: 'Editează această pagină pe GitHub',
     },
 
