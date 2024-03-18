@@ -4,8 +4,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
-  title: "Fury Romania - The Wiki",
-  description: "FiveM Roleplay Server",
+  title: "FuryM Romania - The Wiki",
+  description: "FiveM Medium Roleplay Server",
   lastUpdated: true,
 
   appearance: 'dark',
